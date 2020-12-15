@@ -1,0 +1,14 @@
+- Crear una variable nueva:
+	prop + TAB(x2)
+
+- Crear el constructor de una clase:
+	ctor + TAB(x2)
+
+ORIGINAL: Server=192.168.0.184;
+
+
+ASP.NET MVC
+JavaScript
+HTML
+SQL SERVER
+STORED PROCEDURES
